@@ -1,0 +1,15 @@
+Following Distributed Database is divided as follow:-
+
+Local Database:-
+url:localhost:3306/a2_distnk561034
+Tables:-
+events
+news
+
+Remote Database:-
+url:35.203.41.177:3306/a2_distnk561034
+Tables:-
+park
+category
+park_has_category
+reservation 
